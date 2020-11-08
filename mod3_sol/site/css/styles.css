@@ -1,0 +1,35 @@
+body {
+	background-color: rgb(237, 229, 241);
+	padding-bottom: 1vh;
+}
+/** HEADER **/
+#header-nav {
+  background-color: rgba(82, 50, 94, 0.3);
+  border-radius: 0;
+  border: 0;
+}
+
+.content {
+	background-color: rgba(134, 158, 210, 0.2);
+	border: solid 1px grey;
+	padding: 1vw;
+}
+.menu-content {
+	background-color: white;
+	border-bottom: solid 1px black;
+}
+#nav-list {
+	background-color: transparent;
+	text-align: center;
+}
+#nav-list a:hover {
+	background-color: rgba(82, 50, 94, 0.4);
+}
+.margin-minus {
+	margin-left: -16px;
+	margin-right: -16px;
+	background-color: rgba(82, 50, 94, 0.2)
+}
+.margin-btm {
+	margin-bottom: -8px;
+}
